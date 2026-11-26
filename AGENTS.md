@@ -223,3 +223,32 @@ provider-independent AI architecture initially.
 Defer dedicated model-training hardware
 and custom model training until justified
 by business resources and verified datasets.
+
+## 20. Business Architecture References
+
+Before implementing subscription, payment
+or championship functionality, review
+all documents under docs/business/.
+
+Subscription features shall use
+explicit entitlements.
+
+Do not hardcode subscription plan names
+into business authorization logic.
+
+Do not trust client-supplied payment amounts
+or payment success callbacks.
+
+Payment events shall be verified,
+idempotent and auditable.
+
+Costly AI operations shall enforce
+atomic usage reservations.
+
+Prize championship entry shall remain free.
+
+Subscription purchases shall not influence
+competition scores or rankings.
+
+Valuable prizes shall remain disabled
+until legal and operational approval.
