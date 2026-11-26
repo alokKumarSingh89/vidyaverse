@@ -157,3 +157,69 @@ the established architecture.
 
 Architecture changes shall be documented
 through an appropriate ADR.
+
+## 16. AI Architecture References
+
+Before implementing AI functionality, review:
+
+- docs/ai/ai-strategy.md
+- docs/ai/content-validation.md
+- docs/ai/question-generation.md
+- docs/ai/document-intelligence.md
+- docs/ai/visualization-contracts.md
+- docs/ai/model-evaluation-and-cost.md
+
+Use provider-independent interfaces.
+
+Use deterministic validation where appropriate.
+
+Do not introduce unrestricted AI agent loops.
+
+Enforce execution budgets and retry limits.
+
+Do not publish unvalidated educational content.
+
+AI-generated visualization configurations
+shall use registered component schemas.
+
+Uploaded documents shall be treated as
+untrusted input.
+
+## 17. Security and Privacy References
+
+Before implementing security-sensitive functionality,
+review all documents under docs/security/.
+
+Enforce backend authorization for every
+protected resource.
+
+A role alone shall not grant access
+to unrelated student resources.
+
+Do not expose authentication credentials,
+student documents or examination answer keys.
+
+Do not introduce AI provider credentials
+into frontend applications.
+
+Child data processing shall follow
+applicable consent and privacy requirements.
+
+## 18. Educational Scope
+
+The long-term product scope covers
+Class 1 through master's degree.
+
+The initial pilot remains Class 6–8 mathematics.
+
+Do not introduce curriculum assumptions
+that prevent university education support.
+
+## 19. AI Investment Strategy
+
+Use the OpenAI API through the
+provider-independent AI architecture initially.
+
+Defer dedicated model-training hardware
+and custom model training until justified
+by business resources and verified datasets.

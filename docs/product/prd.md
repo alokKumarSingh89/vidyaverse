@@ -38,6 +38,17 @@ The platform shall enforce role-based authorization.
 Child accounts shall follow applicable parental consent,
 privacy and age-assurance requirements.
 
+### FR-ID-005
+
+Adult learners shall be able to independently
+manage their accounts and privacy preferences.
+
+### FR-ID-006
+
+The platform shall support an appropriate
+transition from guardian-managed student
+accounts to independent adult accounts.
+
 ## 4. Curriculum Management
 
 ### FR-CUR-001
@@ -56,6 +67,28 @@ Educational content shall be versioned.
 ### FR-CUR-004
 
 Each learning concept shall support multiple languages.
+
+### FR-CUR-005
+
+The platform shall support multiple educational
+levels from primary education through
+postgraduate education.
+
+### FR-CUR-006
+
+The curriculum model shall support universities,
+degree programs, specializations, semesters,
+courses and learning outcomes.
+
+### FR-CUR-007
+
+Educational content shall support age-appropriate
+and education-level-appropriate explanations.
+
+### FR-CUR-008
+
+Curriculum structures shall support different
+institutional and academic organization models.
 
 ## 5. Interactive Learning
 

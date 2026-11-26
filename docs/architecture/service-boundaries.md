@@ -63,6 +63,26 @@ Owned entities:
 - LearningObjective
 - CurriculumVersion
 
+### Future Higher Education Support
+
+Additional curriculum entities may include:
+
+- EducationLevel
+- Institution
+- University
+- DegreeProgram
+- Specialization
+- AcademicTerm
+- Course
+- CourseCredit
+- CoursePrerequisite
+
+These entities shall be introduced when
+required by the corresponding educational release.
+
+The curriculum model shall not assume
+that all education follows a school-grade structure.
+
 ## 4. Learning Service
 
 Responsibilities:
