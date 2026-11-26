@@ -157,3 +157,30 @@ the established architecture.
 
 Architecture changes shall be documented
 through an appropriate ADR.
+
+## 16. AI Architecture References
+
+Before implementing AI functionality, review:
+
+- docs/ai/ai-strategy.md
+- docs/ai/content-validation.md
+- docs/ai/question-generation.md
+- docs/ai/document-intelligence.md
+- docs/ai/visualization-contracts.md
+- docs/ai/model-evaluation-and-cost.md
+
+Use provider-independent interfaces.
+
+Use deterministic validation where appropriate.
+
+Do not introduce unrestricted AI agent loops.
+
+Enforce execution budgets and retry limits.
+
+Do not publish unvalidated educational content.
+
+AI-generated visualization configurations
+shall use registered component schemas.
+
+Uploaded documents shall be treated as
+untrusted input.

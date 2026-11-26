@@ -76,6 +76,14 @@ pnpm format:check
 - [ADR-0001](docs/decisions/0001-modular-microservice-architecture.md)
 - [ADR-0002](docs/decisions/0002-database-ownership.md)
 - [ADR-0003](docs/decisions/0003-ai-platform-isolation.md)
+- [AI Strategy](docs/ai/ai-strategy.md)
+- [Content Validation](docs/ai/content-validation.md)
+- [Question Generation](docs/ai/question-generation.md)
+- [Document Intelligence](docs/ai/document-intelligence.md)
+- [Visualization Contracts](docs/ai/visualization-contracts.md)
+- [Model Evaluation and Cost](docs/ai/model-evaluation-and-cost.md)
+- [ADR-0004](docs/decisions/0004-ai-provider-abstraction.md)
+- [ADR-0005](docs/decisions/0005-configuration-driven-visualizations.md)
 
 ## Project Status
 
