@@ -1,0 +1,52 @@
+# Node.js
+node_modules/
+dist/
+build/
+.next/
+out/
+.turbo/
+coverage/
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+*.tfvars
+!*.example.tfvars
+crash.log
+
+# Operating system
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+
+# Logs
+*.log
+logs/
+
+# Test artifacts
+playwright-report/
+test-results/
+
+# Temporary files
+tmp/
+temp/
+
+# Uploaded student documents
+uploads/

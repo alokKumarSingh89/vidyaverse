@@ -1,0 +1,13 @@
+node_modules
+dist
+.next
+.turbo
+coverage
+.venv
+__pycache__
+.pytest_cache
+pnpm-lock.yaml
+uv.lock
+.terraform
+*.tfstate
+*.tfstate.*
