@@ -84,6 +84,14 @@ pnpm format:check
 - [Model Evaluation and Cost](docs/ai/model-evaluation-and-cost.md)
 - [ADR-0004](docs/decisions/0004-ai-provider-abstraction.md)
 - [ADR-0005](docs/decisions/0005-configuration-driven-visualizations.md)
+- [Authentication and Authorization](docs/security/authentication-and-authorization.md)
+- [Child Safety and Privacy](docs/security/child-safety-and-privacy.md)
+- [Examination Security](docs/security/examination-security.md)
+- [Document Upload Security](docs/security/document-upload-security.md)
+- [Infrastructure Security](docs/security/infrastructure-security.md)
+- [Threat Model](docs/security/threat-model.md)
+- [ADR-0006](docs/decisions/0006-session-based-authentication.md)
+- [ADR-0007](docs/decisions/0007-resource-level-authorization.md)
 
 ## Project Status
 

@@ -169,3 +169,20 @@ privacy and child safety shall be enforced.
 
 AI agents shall not receive unrestricted
 access to databases, tools or external systems.
+
+## 12. Initial AI Provider and Model Training
+
+The initial AI provider shall be OpenAI,
+accessed through the provider abstraction.
+
+AI model selection shall consider educational
+quality, latency, cost and data protection.
+
+Custom model training and dedicated GPU
+infrastructure shall be deferred until
+sufficient datasets, business requirements
+and financial resources are available.
+
+The platform shall preserve the ability
+to integrate privately fine-tuned models
+without redesigning business services.

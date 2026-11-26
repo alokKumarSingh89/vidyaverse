@@ -184,3 +184,42 @@ shall use registered component schemas.
 
 Uploaded documents shall be treated as
 untrusted input.
+
+## 17. Security and Privacy References
+
+Before implementing security-sensitive functionality,
+review all documents under docs/security/.
+
+Enforce backend authorization for every
+protected resource.
+
+A role alone shall not grant access
+to unrelated student resources.
+
+Do not expose authentication credentials,
+student documents or examination answer keys.
+
+Do not introduce AI provider credentials
+into frontend applications.
+
+Child data processing shall follow
+applicable consent and privacy requirements.
+
+## 18. Educational Scope
+
+The long-term product scope covers
+Class 1 through master's degree.
+
+The initial pilot remains Class 6–8 mathematics.
+
+Do not introduce curriculum assumptions
+that prevent university education support.
+
+## 19. AI Investment Strategy
+
+Use the OpenAI API through the
+provider-independent AI architecture initially.
+
+Defer dedicated model-training hardware
+and custom model training until justified
+by business resources and verified datasets.

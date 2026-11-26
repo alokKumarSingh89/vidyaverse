@@ -118,3 +118,27 @@ Expand across:
 - Reusable learning engines before custom implementations.
 - Cost-efficient AI usage.
 - Continuous improvement through validated feedback.
+
+## Expanded Educational Vision
+
+VidyaVerse shall progressively support education
+from Class 1 through master's degree.
+
+Supported educational levels may include:
+
+- Primary education.
+- Middle school education.
+- Secondary education.
+- Senior secondary education.
+- Undergraduate education.
+- Postgraduate education.
+
+The platform shall support school boards,
+universities and independent educational
+programs through extensible curriculum models.
+
+The initial pilot remains focused on
+Class 6–8 mathematics.
+
+Additional educational levels shall be
+introduced incrementally.
