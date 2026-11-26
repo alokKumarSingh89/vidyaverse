@@ -11,9 +11,9 @@
 
 | ID     | Feature                        | Priority | Status      |
 | ------ | ------------------------------ | -------- | ----------- |
-| VV-001 | Repository foundation          | P0       | In progress |
-| VV-002 | Product documentation          | P0       | In progress |
-| VV-003 | Architecture documentation     | P0       | Planned     |
+| VV-001 | Repository foundation          | P0       | Completed   |
+| VV-002 | Product documentation          | P0       | Completed   |
+| VV-003 | Architecture documentation     | P0       | In progress |
 | VV-004 | CI/CD foundation               | P0       | Planned     |
 | VV-005 | Identity and authentication    | P0       | Planned     |
 | VV-006 | Parent and child profiles      | P0       | Planned     |

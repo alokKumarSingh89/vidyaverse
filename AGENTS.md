@@ -139,3 +139,21 @@ A feature is complete when:
 - Silently modifying product requirements.
 - Destructive database changes without approval.
 - Claiming unexecuted tests have passed.
+
+## 15. Architecture References
+
+Before implementing a new service or application, review:
+
+- docs/architecture/overview.md
+- docs/architecture/service-boundaries.md
+- docs/architecture/frontend-architecture.md
+- docs/architecture/data-architecture.md
+- docs/architecture/communication-patterns.md
+- docs/decisions/
+
+Do not introduce a new service, database or
+communication mechanism without evaluating
+the established architecture.
+
+Architecture changes shall be documented
+through an appropriate ADR.
