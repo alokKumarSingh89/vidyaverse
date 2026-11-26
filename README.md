@@ -68,6 +68,14 @@ pnpm format:check
 - [Business Rules](docs/product/business-rules.md)
 - [Product Backlog](docs/product/backlog.md)
 - [Engineering Instructions](AGENTS.md)
+- [Architecture Overview](docs/architecture/overview.md)
+- [Service Boundaries](docs/architecture/service-boundaries.md)
+- [Frontend Architecture](docs/architecture/frontend-architecture.md)
+- [Data Architecture](docs/architecture/data-architecture.md)
+- [Communication Patterns](docs/architecture/communication-patterns.md)
+- [ADR-0001](docs/decisions/0001-modular-microservice-architecture.md)
+- [ADR-0002](docs/decisions/0002-database-ownership.md)
+- [ADR-0003](docs/decisions/0003-ai-platform-isolation.md)
 
 ## Project Status
 
