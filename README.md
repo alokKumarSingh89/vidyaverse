@@ -92,6 +92,13 @@ pnpm format:check
 - [Threat Model](docs/security/threat-model.md)
 - [ADR-0006](docs/decisions/0006-session-based-authentication.md)
 - [ADR-0007](docs/decisions/0007-resource-level-authorization.md)
+- [Revenue Model](docs/business/revenue-model.md)
+- [Subscription and Entitlements](docs/business/subscription-and-entitlements.md)
+- [Payment Architecture](docs/business/payment-architecture.md)
+- [Championship Rules](docs/business/championship-rules.md)
+- [Financial and AI Investment](docs/business/financial-and-ai-investment.md)
+- [ADR-0008](docs/decisions/0008-entitlement-based-subscriptions.md)
+- [ADR-0009](docs/decisions/0009-independent-championship-funding.md)
 
 ## Project Status
 
