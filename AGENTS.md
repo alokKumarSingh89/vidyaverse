@@ -252,3 +252,32 @@ competition scores or rankings.
 
 Valuable prizes shall remain disabled
 until legal and operational approval.
+
+## 21. Engineering and Delivery Standards
+
+Review the CI/CD, testing and deployment
+architecture documents before introducing
+new application or infrastructure workflows.
+
+Preserve committed dependency lockfiles.
+
+Do not disable automated checks merely
+to make a pipeline pass.
+
+Do not expose production credentials
+to untrusted workflows.
+
+Use deterministic fixtures for ordinary
+AI-related automated tests.
+
+Real AI evaluation shall use controlled
+execution and approved budgets.
+
+Application releases shall use versioned
+and traceable artifacts.
+
+Database migrations shall consider
+backward compatibility and recovery.
+
+Do not claim successful test execution
+unless the tests were actually executed.
