@@ -1,0 +1,4 @@
+title = "VidyaVerse Secret Scanning Configuration"
+
+[extend]
+useDefault = true

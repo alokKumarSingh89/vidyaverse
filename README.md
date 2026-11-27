@@ -99,6 +99,10 @@ pnpm format:check
 - [Financial and AI Investment](docs/business/financial-and-ai-investment.md)
 - [ADR-0008](docs/decisions/0008-entitlement-based-subscriptions.md)
 - [ADR-0009](docs/decisions/0009-independent-championship-funding.md)
+- [CI/CD Architecture](docs/architecture/ci-cd-architecture.md)
+- [Testing Strategy](docs/architecture/testing-strategy.md)
+- [Deployment Strategy](docs/architecture/deployment-strategy.md)
+- [ADR-0010](docs/decisions/0010-continuous-delivery.md)
 
 ## Project Status
 
